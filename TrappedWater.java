@@ -1,5 +1,5 @@
 import java.util.*;
-public class Trapped {
+public class TrappedWater {
     public static int Trapped_water(int height[]){
          // calculate left max boundary : array
          int n=height.length;
