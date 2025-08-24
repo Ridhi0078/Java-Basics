@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Array1 {
+public class Array {
     public static void Update(int marks[],int nonChangeable){
         nonChangeable=5;
         for (int i=0;i<marks.length;i++){
