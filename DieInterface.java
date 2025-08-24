@@ -2,13 +2,13 @@ interface sayable{
     void say(String msg);
 }
 
-public class DIeInterface implements sayable {
+public class DieInterface implements sayable {
     public void say(String msg){
         System.out.println(msg);
     }
 
     public static void main(String[] args) {
-        DIeInterface fie=new DIeInterface();
+        DieInterface fie=new DieInterface();
 
         fie.say("Hello There");
     }
