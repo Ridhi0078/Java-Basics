@@ -16,7 +16,4 @@ public class Arrays{
         System.out.println("Length of array is: "+marks.length);
     
     }
-
-    public static void sort(int[] arr2) {
-    }
 }
